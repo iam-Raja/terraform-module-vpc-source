@@ -14,7 +14,7 @@ output "vpc_id" {
      }
 
      output "database_subnet_groups" {
-       value=aws.aws_db_subnet_group.default.id
+       value=aws_db_subnet_group.default.id
      }
 
      output "igw_id" {
