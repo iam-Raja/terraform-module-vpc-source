@@ -74,7 +74,7 @@ resource "aws_subnet" "database" {
         var.database_subnet_cidrs_tags ,
         var.common_tags,
         {
-            Name="${local.resource_name}"
+            Name="${local.resource_name}-database-${local.az_names[count.index]}"
         }
     )
 }
