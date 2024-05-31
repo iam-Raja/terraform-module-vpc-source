@@ -1,6 +1,6 @@
 ## VPC CREATION ##
 
-![alt text](Downloads/vpc.jpg)
+[![alt text](Downloads/vpc.jpg)](https://github.com/iam-Raja/terraform-module-vpc-source/issues/1#issue-2326915323)
 
 ## Resource Created
 * VPC
