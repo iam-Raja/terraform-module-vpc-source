@@ -1,7 +1,5 @@
 ## VPC CREATION ##
 
-![alt text](terraform-module-vpc-source.vpc.jpg)
-
 ## Resource Created
 * VPC
 * Internet Gateway
