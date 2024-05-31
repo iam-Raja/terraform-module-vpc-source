@@ -1,5 +1,7 @@
 ## VPC CREATION ##
 
+![alt text](Downloads/vpc.jpg)
+
 ## Resource Created
 * VPC
 * Internet Gateway
