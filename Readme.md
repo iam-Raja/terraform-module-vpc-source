@@ -1,5 +1,7 @@
 ## VPC CREATION ##
 
+![vpc](https://github.com/iam-Raja/terraform-module-vpc-source/assets/149984693/3714ceda-71b3-4132-9f45-582183251f90)
+
 ## Resource Created
 * VPC
 * Internet Gateway
