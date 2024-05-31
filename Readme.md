@@ -1,6 +1,6 @@
 ## VPC CREATION ##
 
-![alt text](terraform-module-vpc-source/vpc.jpg)
+![alt text](terraform-module-vpc-source.vpc.jpg)
 
 ## Resource Created
 * VPC
