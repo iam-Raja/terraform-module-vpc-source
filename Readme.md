@@ -1,5 +1,10 @@
 ## VPC CREATION ##
 
+<<<<<<< HEAD
+=======
+![alt text](terraform-module-vpc-source.vpc.jpg)
+
+>>>>>>> abd4d1ad003c48e0378647e0695e8645a4abd805
 ![vpc](https://github.com/iam-Raja/terraform-module-vpc-source/assets/149984693/3714ceda-71b3-4132-9f45-582183251f90)
 
 ![expenses-dev-terraform](https://github.com/iam-Raja/terraform-module-vpc-source/assets/149984693/7f763ba9-f3b0-45f7-863f-07c3a5471172)
